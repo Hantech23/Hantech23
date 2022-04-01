@@ -2,7 +2,7 @@
 
 <p align='center'>
   I'm Woobin.
-  <br>Web developer.
+  <br>Front-end developer.
   <br>Reach out on:
 </p>
 
