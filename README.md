@@ -13,6 +13,7 @@
 
 ## Languages
 <p>
+  <a href="https://visualstudio.microsoft.com/vs/features/cplusplus/"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C Programming Language" height="30" style="vertical-align:top; margin:4px"></a>
   <a href="https://adoptopenjdk.net/?variant=openjdk11&jvmVariant=hotspot"> <img src="https://cdn.svgporn.com/logos/java.svg" alt="Java" height="30" style="vertical-align:top; margin:4px"></a>      
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" height="30" style="vertical-align:top; margin:4px"></a>
 </p>
