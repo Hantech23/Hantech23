@@ -1,8 +1,9 @@
 <h1 align='center'>:thumbsup: wowa weewa great success! :thumbsup:</h1>
 
 <p align='center'>
-  I'm Woobin.
-  <br>Front-end developer.
+  Hi, I'm Woobin.
+  <br>I am a front-end developer.
+  <br>This my work.
   <br>Reach out on:
 </p>
 
