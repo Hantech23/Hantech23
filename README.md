@@ -3,7 +3,6 @@
 <p align='center'>
   Hi, I'm Woobin.
   <br>I am a front-end developer.
-  <br>This my work.
   <br>Reach out on:
 </p>
 
