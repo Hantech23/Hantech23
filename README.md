@@ -1,7 +1,7 @@
 <h1 align='center'>Woobin Han</h1>
 
 <p align='center'>
-  <br>front-end developer
+  <br>web developer
   <br>
   <br>reach out on
   <br>
